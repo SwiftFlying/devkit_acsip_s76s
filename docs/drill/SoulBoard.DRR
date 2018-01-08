@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: SoulBoard.PcbDoc   06.01.2018  9:35:15
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : SoulBoard-RoundHoles.TXT
+ASCII SlotHoles File : SoulBoard-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      13mil (0.32mm)                                            Round             42        PTH        0.00inch (0.00mm)
+T2      35mil (0.9mm)                                             Round             43        PTH        0.00inch (0.00mm)
+T3      39mil (1mm)                                               Slot              2         PTH        0.00inch (0.00mm)
+T4      59mil (1.5mm)                                             Round             5         PTH        0.00inch (0.00mm)
+T5      55mil (1.4mm)                                             Round             2         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              94
+
+Total Processing Time (hh:mm:ss) : 00:00:00
